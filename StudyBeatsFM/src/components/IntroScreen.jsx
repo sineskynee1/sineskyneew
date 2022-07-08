@@ -24,8 +24,8 @@ const Hero = () => {
         </div>
         <div className="titleContainer">
           <img className="heroLogo" src={logo} alt="" />
-          <h1 className="tracking-in-expand-fwd">StudyBeats</h1>
-          <h3 className="subTitle"> An Online Music Player </h3>
+          <h1 className="tracking-in-expand-fwd">Nhạc nèee</h1>
+          <h3 className="subTitle">tnhh.17506</h3>
           <div class="note-position-1 note-amination">&#9835;</div>
           <div class="note-position-2 note-amination animation-delay-2">
             &#9833;
@@ -37,7 +37,7 @@ const Hero = () => {
           </div>
           <div class="wrap">
             <Link to="/music">
-                <button class="button">Start Listening</button>
+                <button class="button">Zô</button>
             </Link>         
           </div>
         </div>
